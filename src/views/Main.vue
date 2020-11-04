@@ -12,6 +12,10 @@
 </template>
 
 <script>
+  import ThemePicker from "../components/ThemePicker"
   export default {
+    components:{
+      ThemePicker
+    }
   }
 </script>
